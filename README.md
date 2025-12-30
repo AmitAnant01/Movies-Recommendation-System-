@@ -47,3 +47,5 @@ A smart and interactive web application that suggests movies based on your given
  * Password: Amit@ak1
 
 Demo Screenshot:
+![My image](demo.png)
+![My image](demo2.png)
