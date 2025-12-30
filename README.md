@@ -48,4 +48,5 @@ A smart and interactive web application that suggests movies based on your given
 
 Demo Screenshot:
 ![My image](demo.png)
+![My image](lopage.png)
 ![My image](demo2.png)
